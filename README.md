@@ -11,7 +11,6 @@ A curated list of practical deep learning and machine learning project ideas
 - Ranges from beginner friendly to research projects
 
 ---
-
 ## Contents
 
 - [Text](#text) - With some topics about Natural language processing
